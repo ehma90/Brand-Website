@@ -4,7 +4,7 @@ function Navbar() {
 
   return (
     <div>
-        <h1></h1>
+        <h1>here we go</h1>
     </div>
   );
 }
