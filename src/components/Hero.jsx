@@ -19,7 +19,7 @@ function Hero() {
         <div>
             <img className='w-full' src={bgImg} alt='hero-image'/>
         </div>
-        <div className='absolute flex flex-col py-8 md:min-w-[760px] bottom-[-5%]
+        <div className='absolute flex flex-col py-8 md:min-w-[760px] bottom-[5%]
         mx-1 md:left-1/2 transform md:-translate-x-1/2 bg-zinc-200 border 
         border-slate-300 rounded-xl text-center shadow-xl'>
             <p>Data Service</p>
