@@ -19,7 +19,7 @@
 
 - Youtube: [link](https://www.youtube.com/watch?v=TVQnhcVFTVs)
 
-## Github Page
+## Vercel Deployment
 
 Deployed on [Vercel](https://brand-website-demo.vercel.app/) 
 
