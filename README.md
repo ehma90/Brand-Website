@@ -21,7 +21,7 @@
 
 ## Github Page
 
-Here is a link to my github page 
+Here is a [link](https://ehma90.github.io/Brand-Website/) to my github page 
 
 ## Show your support
 
