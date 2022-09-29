@@ -27,7 +27,7 @@ function Navbar() {
           </button>
           <button className="px-8 py-3">Sign Up</button>
         </div>
-        <div className="md:hidden" onClick={handleClick}>
+        <div className="md:hidden mr-4" onClick={handleClick}>
             {!nav ? <GrMenu className="w-5" /> : <FaTimes className="w-5"/>}
         </div>
       </div>

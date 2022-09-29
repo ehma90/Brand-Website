@@ -7,7 +7,7 @@ import supportImg from '../assets/support.jpg'
 
 function Support() {
   return (
-    <div className='w-full h-screen mt-24'>
+    <div className='w-full mt-24'>
         <div className='w-full h-[700px] bg-gray-900/90 absolute'>
             <img className='w-full h-full object-cover mix-blend-overlay' src={supportImg} alt="support" />
         </div>
@@ -23,7 +23,7 @@ function Support() {
                 <div className='bg-white rounded-xl shadow-2xl'>
                     <div className='p-8'>
                         <div className=' w-12 p-4 text-white bg-indigo-600  rounded-lg mt-[-3.5rem] flex justify-center'>
-                            <BsTelephoneFill className='m-0 p-0'/>
+                            <BsTelephoneFill />
                         </div>
                         
                         <h3 className='font-bold text-2xl my-6'>Sales</h3>
@@ -37,7 +37,7 @@ function Support() {
                 <div className='bg-white rounded-xl shadow-2xl'>
                     <div className='p-8'>
                         <div className=' w-12 p-4 text-white bg-indigo-600  rounded-lg mt-[-3.5rem] flex justify-center'>
-                            <BiSupport className='m-0 p-0'/>
+                            <BiSupport />
                         </div>
                         
                         <h3 className='font-bold text-2xl my-6'>Techincal support</h3>
@@ -51,7 +51,7 @@ function Support() {
                 <div className='bg-white rounded-xl shadow-2xl'>
                     <div className='p-8'>
                         <div className=' w-12 p-4 text-white bg-indigo-600  rounded-lg mt-[-3.5rem] flex justify-center'>
-                            <BiChip className='m-0 p-0'/>
+                            <BiChip/>
                         </div>
                         
                         <h3 className='font-bold text-2xl my-6'>Media Inquiries</h3>
