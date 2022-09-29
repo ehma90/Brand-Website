@@ -21,7 +21,7 @@
 
 ## Github Page
 
-Here is a [link](https://ehma90.github.io/Brand-Website/) to my github page 
+Deployed on [Vercel](https://brand-website-demo.vercel.app/) 
 
 ## Show your support
 
