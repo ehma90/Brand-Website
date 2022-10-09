@@ -1,6 +1,6 @@
 # Brand Demo Website
 
-## Built With
+## Built With:
 
 - React.js
 - TailwindCSS
